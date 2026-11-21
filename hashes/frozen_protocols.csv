@@ -1,0 +1,4 @@
+protocol,date_frozen,sha256_of_protocol_file,what_it_fixed
+Sealed-test protocol (E01),"November 2026, before the single run on the 570 sealed images",4e5d286e476709a4497f882b1acd3258750f95d1c9da6d0145d24e9e32b8ed4c,"Primary comparisons, attackers, budgets, bootstrap and Holm family, split fingerprints and model fingerprints; run once"
+Round-three protocol,"18-19 November 2026, before the cloud run",595592964015fe1ea79df84bb4eca473e02f15d64df8e9b0e76c47b365730ac8,"Forensic, post-processing, repeat-seed and DOTA tests, model fingerprints and scripts; the sealed test was not read"
+Attribute-protection parameters (E28),6 November 2026,441ef987c1f6868ce2d5906edfaae67ec54d79c221adaae82f1ce9a7f4d980df,Parameters computed from the training split only

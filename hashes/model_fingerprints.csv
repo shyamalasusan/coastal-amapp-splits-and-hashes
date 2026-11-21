@@ -1,0 +1,19 @@
+model,sha256,length,note
+A2_yolo11s,457ae8137bbd624d0142dea070f69392170a7f42ba297ad8f43b46ff9e936dc8,full,weight file fingerprint recorded before the sealed run; weights not distributed
+A2b_v8s_seed123,f23828c570cd8e916836394b07da368b726e4942eb8a72a9576aeabf8015de4c,full,weight file fingerprint recorded before the sealed run; weights not distributed
+A3_pix14,f279a80045eb1ef36dd9df8a1453be82b3fc0772e60408fb7315d84a71ef91a8,full,weight file fingerprint recorded before the sealed run; weights not distributed
+A3_mask,c81fabb56e3c0f25a429ce0cadf684d6b68cdc03a407ac1d5d5af5b30dbeb28d,full,weight file fingerprint recorded before the sealed run; weights not distributed
+A3_inpaint,c4fcc4bad1e6bb1993c6c5df19bbc096c26d75d28763afd2d4e06816dfdcda96,full,weight file fingerprint recorded before the sealed run; weights not distributed
+A3_rtdetr_pix14,d649c9bdc5fae8456cce1338990831606e59f84e1fce6b97842c872f3ff86e05,full,weight file fingerprint recorded before the sealed run; weights not distributed
+A4_holdout,fecc69f8f41500dac5f09795e2cc8a75175a82e7ab97d3f1afe4cb93f65725a8,full,weight file fingerprint recorded before the sealed run; weights not distributed
+A1_primary,3cc501a7837963543b6b9d21f50639a0736800f07f6d167496217d0fd1836fb5,full,weight file fingerprint recorded before the sealed run; weights not distributed
+attacker_adaptive_inpaint,c4fcc4bad1e6bb19,first 16 hex,recorded in the round-three protocol; weights not distributed
+attacker_adaptive_mask,c81fabb56e3c0f25,first 16 hex,recorded in the round-three protocol; weights not distributed
+attacker_adaptive_q40,f279a80045eb1ef3,first 16 hex,recorded in the round-three protocol; weights not distributed
+attacker_adaptive_q40_holdout,fecc69f8f41500da,first 16 hex,recorded in the round-three protocol; weights not distributed
+attacker_rtdetr_adaptive,d649c9bdc5fae845,first 16 hex,recorded in the round-three protocol; weights not distributed
+attacker_rtdetr_unaware,2babbce17b613eee,first 16 hex,recorded in the round-three protocol; weights not distributed
+attacker_yolo11s_s7,457ae8137bbd624d,first 16 hex,recorded in the round-three protocol; weights not distributed
+shiprs_s123,f23828c570cd8e91,first 16 hex,recorded in the round-three protocol; weights not distributed
+shiprs_s2026,776c97f0c47533b4,first 16 hex,recorded in the round-three protocol; weights not distributed
+shiprs_s42,3cc501a783796354,first 16 hex,recorded in the round-three protocol; weights not distributed

@@ -1,0 +1,5 @@
+item,fingerprint_first16_sha256,recipe
+ShipRSImageNet train,9b05f4b260adeecf,"SHA-256 over the sorted image file names of the subset, one per line with a final newline, first 16 hex characters"
+ShipRSImageNet validation,6704ba295c1c6f99,"SHA-256 over the sorted image file names of the subset, one per line with a final newline, first 16 hex characters"
+ShipRSImageNet sealed test,0623ec28e5647178,"SHA-256 over the sorted image file names of the subset, one per line with a final newline, first 16 hex characters"
+ShipRSImageNet scene map,1c79d0aa619b3214,"SHA-256 of scene_map.json (image id to scene key), first 16 hex characters"

@@ -1,0 +1,4 @@
+archive,size_bytes,sha256,note
+DOTA v1.0 training images (dotav1.0_images_train.tar.gz),10183034823,2fd69eeb9ba0c775db007c7fe11d7708fb905a67ca3a663874147434db68e7ac,"Downloaded 19 November 2026 for the reverse-transfer test; academic, non-commercial use"
+DOTA v1.0 annotations (training),,79096d14f5065e1582af47817b5d7c2d1c1611cadc7f1ccc3f868ded1c41a9f6,Annotation archive used with the images above
+SSDD Official-SSDD-OPEN.rar,1043241197,,Hash not recorded; the benchmark split is listed in splits/ssdd_split.csv
