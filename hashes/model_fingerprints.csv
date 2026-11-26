@@ -17,3 +17,5 @@ attacker_yolo11s_s7,457ae8137bbd624d,first 16 hex,recorded in the round-three pr
 shiprs_s123,f23828c570cd8e91,first 16 hex,recorded in the round-three protocol; weights not distributed
 shiprs_s2026,776c97f0c47533b4,first 16 hex,recorded in the round-three protocol; weights not distributed
 shiprs_s42,3cc501a783796354,first 16 hex,recorded in the round-three protocol; weights not distributed
+shiprs_s101,685ae3920fce58a6,first 16 hex,recorded in the run manifests; full hash not available (weights not retained)
+shiprs_s102,fedb04a241f269d6,first 16 hex,recorded in the run manifests; full hash not available (weights not retained)
